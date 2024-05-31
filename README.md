@@ -23,7 +23,7 @@ and Databases  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/ico
 
 #
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-discolo&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-discolo&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=false&layout=compact)
 
 ### Tools:
 <img align="left" alt="Spring" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
